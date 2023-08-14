@@ -6,7 +6,7 @@
 
 ## 🔨 Tecnologias
 
-- ``Python 3.30``
+- ``Python 3.10``
  
 ## 🔨 Funções do Projeto:
 
